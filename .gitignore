@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Generated user data and reports
+portfolio_data.json
+portfolio_report.csv
+portfolio_report.txt
+
+# OS files
+.DS_Store
+Thumbs.db
