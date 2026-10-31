@@ -69,7 +69,7 @@ Prices are defined in the `STOCK_PRICES` dictionary at the top of `stock_portfol
 
 These files are generated in the same folder when the relevant operations are used.
 
-## Example
+## Ex
 
 Suppose you buy 5 shares of AAPL at $170 each. The hardcoded sample price is $180.
 
