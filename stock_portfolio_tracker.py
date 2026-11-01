@@ -1,6 +1,6 @@
 """
 CodeAlpha Internship - Task 2: Stock Portfolio Tracker
-Author: Your Name
+Author: Rishi R 
 Description:
 A menu-driven stock portfolio tracker using manually defined stock prices.
 No external packages or live market API are required.
